@@ -15,7 +15,7 @@ body {
     width: 50px;
     border: pink 2px solid;
     border: radius 50%;
-/*  backgrpund color: green; */
+/*  background color: green; */
 animation-name: color;
 animation-duration: 3s;
 animation-iteration-count: infinite;
